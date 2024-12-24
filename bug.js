@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the user's email address is not properly formatted or contains invalid characters.  This can lead to silent failures, making it difficult to debug.
